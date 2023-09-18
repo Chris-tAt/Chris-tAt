@@ -1,7 +1,9 @@
 
 
-[![MasterHead](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)](https://Chris-tAt.io)
-<h1 align="center">Hola👋, Soy Chritian Muñoz</h1>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="MasterHead" style="border: 2px solid black; border-radius: 10px;">
+</p>
+<h1 align="center">Hola👋, Soy Christian Muñoz</h1>
 <h3 align="center">**Desarrollador Full Stack!**</h3>
 
 Estoy terminando la cursada del **Bootcamp Intensivo Soy Henry** 🚀, donde me he sumergído **por muchas horas** en el mundo de la promacion (codeo del bueno). Siempre he sido apasionado con la tecnología lo que me llevó a adentrarme en diversas areas y lenguajes de programación, antes de entrar a Henry ya tenia algunos cursos básicos de las cuales destacan: 
