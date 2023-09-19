@@ -23,7 +23,7 @@ Ahora estoy de lleno en la programacion y cursando la carrera universitaria de *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https:www.linkedin.com/in/christian-d-muñoz-g-493218275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/christian-d-muñoz-g-493218275" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christian-d-muñoz-g-493218275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/christian-d-muñoz-g-493218275" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/christian.munoz.1291421?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/christian.munoz.1291421?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/christianmuos1992?igshid=ytqwzjq0nmi0oa==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/christianmuos1992?igshid=ytqwzjq0nmi0oa==" height="30" width="40" /></a>
 </p>
