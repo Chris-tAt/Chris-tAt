@@ -9,8 +9,7 @@
 Estoy terminando la cursada del **Bootcamp Intensivo Soy Henry** 🚀, donde me he sumergído **por muchas horas** en el mundo de la promacion (codeo del bueno). Siempre he sido apasionado con la tecnología lo que me llevó a adentrarme en diversas areas y lenguajes de programación, antes de entrar a Henry ya tenia algunos cursos básicos de las cuales destacan: 
 -🚀 **Frontend**: ReactJS, Redux, 
 -🌐 **Backend**: Express, NodeJS.
-- 🐘 **Base de Datos**: Postgres, Sequelize.
-- 🎨 **Diseño**: SASS, Bootstrap, Figma, Material UI.
+- 🎨 **Diseño**:Bootstrap, Figma, Material UI, CSS3.
 - 🚀 **Control de Versiones**: Git, GitHub.
 
 Soy una persona *curiosa* y *autodidacta*, me encanta aprender de otras personas y compartir mis conocimientos con la comunidad. 💡
