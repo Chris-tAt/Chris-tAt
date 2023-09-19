@@ -14,7 +14,7 @@ Estoy terminando la cursada del **Bootcamp Intensivo Soy Henry** 🚀, donde me 
 
 Soy una persona *curiosa* y *autodidacta*, me encanta aprender de otras personas y compartir mis conocimientos con la comunidad. 💡
 
-Antes de dar el salto al mundo del desarrollo de software, habia cursado diferentes carreras muy diferentes a la programacion: **soy Licenciado en Teología**, **Técnico Superior Agropecuario**. Sin embargo, la posibilidad de crear cosas extraordinarias solo con líneas de código, me cautivó y me hizo enamorar de esta profesión.
+Antes de dar el salto al mundo del desarrollo de software, habia cursado varias carreras muy diferentes a la programacion: **soy Licenciado en Teología**, **Técnico Superior Agropecuario**. Sin embargo, la posibilidad de crear cosas extraordinarias solo con líneas de código, me cautivó y me hizo enamorar de esta profesión.
 
 Ahora estoy de lleno en la programacion y cursando la carrera universitaria de **Tecnico superior en programacion y analisis de datos**. sigo trabajando en diferentes proyectos; Siempre me mantengo en **constante aprendizaje** para mejorar tanto profesional como personalmente.
 
