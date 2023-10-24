@@ -4,21 +4,53 @@
   <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="MasterHead" style="border: 2px solid black; border-radius: 10px;">
 </p>
 <h1 align="center">Hola👋, Soy Christian Muñoz</h1>
-<h3 align="center">**Desarrollador Full Stack!**</h3>
+<h3 align="center">Desarrollador Full Stack!</h3>
 
-Estoy terminando la cursada del **Bootcamp Intensivo Soy Henry** 🚀, donde me he sumergído **por muchas horas** en el mundo de la promacion (codeo del bueno). Siempre he sido apasionado con la tecnología lo que me llevó a adentrarme en diversas areas y lenguajes de programación, antes de entrar a Henry ya tenia algunos cursos básicos de las cuales destacan: 
--🚀 **Frontend**: ReactJS, Redux, 
--🌐 **Backend**: Express, NodeJS.
-- 🎨 **Diseño**:Bootstrap, Figma, Material UI, CSS3.
-- 🚀 **Control de Versiones**: Git, GitHub.
+## Acerca de mí
 
-Soy una persona *curiosa* y *autodidacta*, me encanta aprender de otras personas y compartir mis conocimientos con la comunidad. 💡
+- 👨‍💻 Programador Full Stack.
+- 🎓 Formación en programación a través de cursos y un intensivo Bootcamp en [Soy Henry](https://www.soyhenry.com/).
+- 📚 Estudio universitario en Programación y Análisis de Datos.
 
-Antes de dar el salto al mundo del desarrollo de software, habia cursado varias carreras muy diferentes a la programacion: **soy Licenciado en Teología**, **Técnico Superior Agropecuario**. Sin embargo, la posibilidad de crear cosas extraordinarias solo con líneas de código, me cautivó y me hizo enamorar de esta profesión.
+## Mis Habilidades
 
-Ahora estoy de lleno en la programacion y cursando la carrera universitaria de **Tecnico superior en programacion y analisis de datos**. sigo trabajando en diferentes proyectos; Siempre me mantengo en **constante aprendizaje** para mejorar tanto profesional como personalmente.
+¡Soy un entusiasta de la tecnología y disfruto trabajando con una variedad de herramientas y tecnologías! Algunas de las habilidades que he desarrollado incluyen:
 
-¡Estoy emocionado por lo que depara el futuro y por seguir aprendiendo en este apasionante viaje del desarrollo de software! 🚀✨
+### Frontend
+- React
+- Redux
+- JavaScript
+- HTML
+- Librerías de estilos: Bootstrap, Tailwind, Material UI y más.
+
+### Backend
+- Node.js
+- Sequelize
+- PostgreSQL
+- Express
+- ...
+
+### Diseño
+- Figma
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Y más herramientas de diseño.
+
+## Experiencia
+
+He tenido la oportunidad de trabajar en diversos proyectos, tanto personales como colaborativos. Me apasiona la creación y la resolución de problemas a través de la programación. Actualmente, estoy estudiando Programación y Análisis de Datos, y continúo trabajando en varios proyectos emocionantes.
+
+## Mis Proyectos
+
+Puedes echar un vistazo a algunos de mis proyectos destacados aquí en mi perfil de GitHub. ¡Espero que encuentres algo que te interese!
+
+## Lo que Estoy Aprendiendo
+
+Actualmente, me estoy sumergiendo en nuevas tecnologías como TypeScript, Mongo y AWS. 
+
+## Contáctame
+
+Estoy abierto a nuevas oportunidades y siempre dispuesto a aprender y compartir conocimientos. Puedes encontrarme en GitHub o conectarte conmigo en mis redes sociales.😄✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
