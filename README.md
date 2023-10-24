@@ -36,14 +36,6 @@
 - Adobe Premiere Pro
 - Y más herramientas de diseño.
 
-## Experiencia
-
-He tenido la oportunidad de trabajar en diversos proyectos, tanto personales como colaborativos. Me apasiona la creación y la resolución de problemas a través de la programación. Actualmente, estoy estudiando Programación y Análisis de Datos, y continúo trabajando en varios proyectos emocionantes.
-
-## Mis Proyectos
-
-Puedes echar un vistazo a algunos de mis proyectos destacados aquí en mi perfil de GitHub. ¡Espero que encuentres algo que te interese!
-
 ## Lo que Estoy Aprendiendo
 
 Actualmente, me estoy sumergiendo en nuevas tecnologías como TypeScript, Mongo y AWS. 
